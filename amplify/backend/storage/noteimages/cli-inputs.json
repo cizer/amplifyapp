@@ -1,0 +1,14 @@
+{
+  "resourceName": "noteimages",
+  "policyUUID": "4e4627c4",
+  "bucketName": "amplifyapp95e34185605b4d75a915ab6d06175c47",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
